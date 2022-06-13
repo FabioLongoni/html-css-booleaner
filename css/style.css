@@ -41,3 +41,29 @@ header {
 .yellow {
     background-color: #fde910;
 }
+
+table {
+    border-spacing: 0;
+}
+.colonna {
+    width: 25%;
+    text-align: left;
+}
+
+.colonna-2{
+    width: 25%;
+    text-align: left;
+}
+
+.colonna-3{
+    text-align: left;
+}
+
+thead {
+    color: white;
+    background-color: rgb(106, 106, 190);
+}
+
+.righe-dispari {
+    background-color: rgb(193, 193, 212);
+}
