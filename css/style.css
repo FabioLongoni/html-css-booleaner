@@ -67,3 +67,19 @@ thead {
 .righe-dispari {
     background-color: rgb(193, 193, 212);
 }
+
+.interessi {
+    font-weight: bolder;
+    color: #656d6b;
+}
+
+.img1-interessi {
+    color: white;
+    padding: 10px;
+    font-weight: bolder;
+    height: 250px;
+    width:300px;
+    background-image: url("img/monitor.jpg");
+    background-size: cover;
+    margin-top: 10px;   
+}
