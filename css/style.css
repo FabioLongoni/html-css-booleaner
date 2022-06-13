@@ -33,3 +33,11 @@ header {
 .tim-2 {
     height: 450px;
 }
+
+.container {
+    font-size: 20px;
+}
+
+.yellow {
+    background-color: #fde910;
+}
